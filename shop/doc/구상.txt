@@ -35,8 +35,11 @@ gpt api -> 계절, 당일 날씨, 사용자 정보, 추가적인 조건입력에
 
 문제 : SpringBoot로 하려 했는데 JDK17미만 미지원.
 1. eGovFramework로 변경
+ -> 그래도 template가 있는 프로젝트 생성. 나쁘지않음
+ -> JPA 가능. springdata jpa가 어차피 나한테 큰 도움안됨. 편한거 먼저배우는게 순서가 안맞긴함.
 2. 그냥 JDK 17사용
-
+ -> 그냥 편함
+ 
 
 -스택
 Eclipse23.09 - JSP - SpringFramework - jQeury - JSP - MyBatis - tomcat - JPA - maven - mariaDB
