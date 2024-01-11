@@ -27,7 +27,7 @@ public class OpenAIRequest {
 
 //    @Value("${openai.key}")
 //    private String API_KEY;
-    private String API_KEY="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";
+    private String API_KEY="";
 
     private static final String URL = "https://api.openai.com/v1/images/edits";
 
