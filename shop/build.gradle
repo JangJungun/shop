@@ -45,6 +45,8 @@ dependencies {
 	implementation 'javax.xml.bind:jaxb-api:2.3.0'
 	implementation 'sh.platform:config:2.2.2'
 	
+	//okhttp
+	implementation 'com.squareup.okhttp3:okhttp:4.9.1'
 }
 
 
